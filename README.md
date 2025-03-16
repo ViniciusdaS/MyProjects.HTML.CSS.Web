@@ -10,9 +10,7 @@
   <body> 
       <p> Languages: <b> HTML </b> and <b> CSS </b> </p>
       <br> 
-      <br>
       <p> *The repository is divided between my more initial projects and my more complex projects. </p>
-  </body>
-  
+  </body> 
 </html>
 
