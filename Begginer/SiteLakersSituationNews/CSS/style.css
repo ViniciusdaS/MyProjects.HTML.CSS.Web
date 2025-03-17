@@ -5,11 +5,12 @@ body {
 
 h1 {
     text-align: center;
-    color: blueviolet;
+    color: yellow;
+    font-size: 50px;
 }
 
 h2 {
-    color: blueviolet;
+    color: white;
     text-align: center;
 }
 
@@ -23,3 +24,8 @@ p {
 div {
     text-align: center;
 }
+
+a {
+    color: white;
+}
+
