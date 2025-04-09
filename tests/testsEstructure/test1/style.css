@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+body img {
+    width: 300px; height:300px;
+    border-style: solid; color: red;    
+    position:relative; left:35%; 
+}
+
+body li {
+    list-style-type: none;
+    display: inline-block;
+    color: red; 
+}

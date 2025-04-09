@@ -1,0 +1,13 @@
+body {
+    background-color:gray;
+}
+
+.title {
+    font-size: 100px;
+    text-align:center;
+    padding-top: 50px;
+}
+
+#bestiary {
+    color: red;
+}
